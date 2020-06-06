@@ -48,6 +48,8 @@
 
 * jupyterlab：下一代jupyter
 * Navicat：数据库查看
+* MOngdb：数据库
+* MYSQL：数据库
 
 # 资源梳理
 
@@ -62,6 +64,9 @@
 [介绍500 line or less](https://www.zhihu.com/question/29372574/answer/88624507)
 
 这个知友介绍了一些500行代码项目简介
+
+[实用小例子](https://github.com/jackzhenguo/python-small-examples)
+有一节装饰器的用法，准备好好准备一下。存储起代码备用
 
 # 已完成或者半完成教程
 
