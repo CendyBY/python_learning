@@ -30,11 +30,13 @@
 
 界面干净清爽，用习惯了很舒服
 
-# 下一步学习之路
+# 学习计划表
 
 [A Rejection Sampler](http://aosabook.org/en/500L/a-rejection-sampler.html)
 
 学习一下大神们的代码是如何计算你赢得象棋比赛的概率，天气对飞机的影响等类似的问题
+
+资源库里面有个pandas_exerices的pandas联系题，准备刷完。
 
 [有哪些适合新手练手的Python项目？](https://zhuanlan.zhihu.com/p/22164270?refer=passer)
 
