@@ -63,6 +63,10 @@
 
 这个知友介绍了一些500行代码项目简介
 
+[哪些 Python 库让你相见恨晚？](https://www.zhihu.com/question/24590883)
+
+相见恨晚，说明他有多好用了吧。
+
 # 已完成或者半完成教程
 
 [100天从新手到大师](https://github.com/jackfrued/Python-100-Days)
