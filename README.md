@@ -50,6 +50,7 @@
 * Navicat：数据库查看
 * MOngdb：数据库
 * MYSQL：数据库
+* Mathpix：公式识别转换
 
 # 资源梳理
 
