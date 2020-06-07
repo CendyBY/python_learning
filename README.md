@@ -36,17 +36,31 @@
 
 有一些关于注释说明的技巧。核心命令是''' ''' ,还可以用pydoc把注释转换成文档。
 
+# 4. 测试用例pytest
+
+google：关键词pytest教程
+
 # 学习计划表
 
 [A Rejection Sampler](http://aosabook.org/en/500L/a-rejection-sampler.html)
 
 学习一下大神们的代码是如何计算你赢得象棋比赛的概率，天气对飞机的影响等类似的问题
 
-资源库里面有个pandas_exerices的pandas联系题，准备刷完。
+[决策取样器-中文]([https://github.com/HT524/500LineorLess_CN/blob/master/%E5%86%B3%E7%AD%96%E9%87%87%E6%A0%B7%E5%99%A8_A_Rejection_Sampler/%E5%86%B3%E7%AD%96%E9%87%87%E6%A0%B7%E5%99%A8_A_Rejection_Sampler.md](https://github.com/HT524/500LineorLess_CN/blob/master/决策采样器_A_Rejection_Sampler/决策采样器_A_Rejection_Sampler.md))
+
+中文版本
+
+[学习测试框架pytest](https://docs.pytest.org/en/stable/)
+
+这个测试框架比较流行，学习一下
 
 [A Simple Object Model](https://aosabook.org/en/500L/a-simple-object-model.html)
 
 本章探讨了一系列非常简单的对象模型的实现。为了更好理解，还介绍了对象模型测试.
+
+[pandas练习题目](https://github.com/guipsamora/pandas_exercises)
+
+资源库里面有个pandas_exerices的pandas联系题，准备刷完。
 
 [有哪些适合新手练手的Python项目？](https://zhuanlan.zhihu.com/p/22164270?refer=passer)
 
@@ -80,7 +94,7 @@
 
 [500 line or less 官网](http://aosabook.org/en/)
 
-[500 line or less 中文](
+[500 line or less 中文]
 
 [哪些 Python 库让你相见恨晚？](https://www.zhihu.com/question/24590883)
 
@@ -88,7 +102,6 @@
 
 [实用小例子](https://github.com/jackzhenguo/python-small-examples)
 有一节装饰器的用法，准备好好准备一下。存储起代码备用
->>>>>>> 6eae6c4353d9c8b108252c322303745d6fdef1ac
 
 # 已完成或者半完成教程
 
