@@ -30,6 +30,12 @@
 
 界面干净清爽，用习惯了很舒服
 
+# 3. 注释说明pydoc
+
+[Python编程：使用pydoc生成文档注释](https://blog.csdn.net/mouday/article/details/83540541)
+
+有一些关于注释说明的技巧。核心命令是''' ''' ,还可以用pydoc把注释转换成文档。
+
 # 学习计划表
 
 [A Rejection Sampler](http://aosabook.org/en/500L/a-rejection-sampler.html)
@@ -37,6 +43,10 @@
 学习一下大神们的代码是如何计算你赢得象棋比赛的概率，天气对飞机的影响等类似的问题
 
 资源库里面有个pandas_exerices的pandas联系题，准备刷完。
+
+[A Simple Object Model](https://aosabook.org/en/500L/a-simple-object-model.html)
+
+本章探讨了一系列非常简单的对象模型的实现。为了更好理解，还介绍了对象模型测试.
 
 [有哪些适合新手练手的Python项目？](https://zhuanlan.zhihu.com/p/22164270?refer=passer)
 
@@ -50,6 +60,9 @@
 
 * jupyterlab：下一代jupyter
 * Navicat：数据库查看
+* MOngdb：数据库
+* MYSQL：数据库
+* Mathpix：公式识别转换
 
 # 资源梳理
 
@@ -65,9 +78,17 @@
 
 这个知友介绍了一些500行代码项目简介
 
+[500 line or less 官网](http://aosabook.org/en/)
+
+[500 line or less 中文](
+
 [哪些 Python 库让你相见恨晚？](https://www.zhihu.com/question/24590883)
 
 相见恨晚，说明他有多好用了吧。
+
+[实用小例子](https://github.com/jackzhenguo/python-small-examples)
+有一节装饰器的用法，准备好好准备一下。存储起代码备用
+>>>>>>> 6eae6c4353d9c8b108252c322303745d6fdef1ac
 
 # 已完成或者半完成教程
 
@@ -84,4 +105,16 @@
 ## 20200530
 
 已经把[100天从新手到大师](https://github.com/jackfrued/Python-100-Days)的基础部分看完了，现在有两个困惑，一个是如何应用所学的东西，二个是下一步准备学习什么提高自己。**时刻提醒自己多加练习**
+
+## 20200603
+
+阅读了500line or less中的[决策取样器]([https://github.com/HT524/500LineorLess_CN/blob/master/%E5%86%B3%E7%AD%96%E9%87%87%E6%A0%B7%E5%99%A8_A_Rejection_Sampler/%E5%86%B3%E7%AD%96%E9%87%87%E6%A0%B7%E5%99%A8_A_Rejection_Sampler.md](https://github.com/HT524/500LineorLess_CN/blob/master/决策采样器_A_Rejection_Sampler/决策采样器_A_Rejection_Sampler.md))代码，但是没怎么看懂，为了练习英文阅读，所以第一遍看的是英文，为了快速搞懂这个，因为工作上用的上，所以看中文把这个搞懂。
+
+# 实践操作
+
+[老外寻找使用过API接口的程序员](https://www.freelancer.com/projects/python/python-script-using-pinnacle-api/)
+
+无意发现一个寻找程序员的网站，里面有人接触过这个行业，并且有相关经验
+
+[pinnacle官方API](https://github.com/pinnacleapi)
 
