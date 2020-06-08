@@ -40,6 +40,12 @@
 
 google：关键词pytest教程
 
+# 学习进度
+
+A Rejection Sampler：自己重写代码ing
+
+pandas练习题目：练习到第三章
+
 # 学习计划表
 
 [A Rejection Sampler](http://aosabook.org/en/500L/a-rejection-sampler.html)
@@ -69,6 +75,10 @@ google：关键词pytest教程
 [适合pandas初级到中级晋升者](https://github.com/hangsz/pandas-tutorial)
 
 这个人用pandas的感受跟我很想，正好最近在学习pandas，跟上他的脚步可以走的更快。
+
+**《编写高质量python代码的59个有效方法》**
+
+
 
 # 工具类学习
 
