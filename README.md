@@ -46,6 +46,8 @@ A Rejection Sampler：自己重写代码ing
 
 pandas练习题目：练习到第三章
 
+高级函数，链式调用，装饰器
+
 # 学习计划表
 
 [A Rejection Sampler](http://aosabook.org/en/500L/a-rejection-sampler.html)
@@ -112,6 +114,14 @@ pandas练习题目：练习到第三章
 
 [实用小例子](https://github.com/jackzhenguo/python-small-examples)
 有一节装饰器的用法，准备好好准备一下。存储起代码备用
+
+[python新手教程](https://wiki.jikexueyuan.com/project/explore-python/File-Directory/os.html)
+
+这个人是把学习笔记梳理一下记录下来，我觉得还蛮有学习价值的
+
+[Python进阶](https://eastlakeside.gitbook.io/interpy-zh/)
+
+python高阶用法，中译版本
 
 # 已完成或者半完成教程
 
