@@ -70,6 +70,8 @@ google：关键词pytest教程
 
 这个人用pandas的感受跟我很想，正好最近在学习pandas，跟上他的脚步可以走的更快。
 
+统计知识：时间序列
+
 # 工具类学习
 
 * jupyterlab：下一代jupyter
