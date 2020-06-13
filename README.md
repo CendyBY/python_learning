@@ -50,14 +50,6 @@ pandas练习题目：练习到第三章
 
 # 学习计划表
 
-[A Rejection Sampler](http://aosabook.org/en/500L/a-rejection-sampler.html)
-
-学习一下大神们的代码是如何计算你赢得象棋比赛的概率，天气对飞机的影响等类似的问题
-
-[决策取样器-中文]([https://github.com/HT524/500LineorLess_CN/blob/master/%E5%86%B3%E7%AD%96%E9%87%87%E6%A0%B7%E5%99%A8_A_Rejection_Sampler/%E5%86%B3%E7%AD%96%E9%87%87%E6%A0%B7%E5%99%A8_A_Rejection_Sampler.md](https://github.com/HT524/500LineorLess_CN/blob/master/决策采样器_A_Rejection_Sampler/决策采样器_A_Rejection_Sampler.md))
-
-中文版本
-
 [学习测试框架pytest](https://docs.pytest.org/en/stable/)
 
 这个测试框架比较流行，学习一下
@@ -123,6 +115,8 @@ pandas练习题目：练习到第三章
 
 python高阶用法，中译版本
 
+Github搜索：Betting-Arbitrage
+
 # 已完成或者半完成教程
 
 [100天从新手到大师](https://github.com/jackfrued/Python-100-Days)
@@ -132,6 +126,14 @@ python高阶用法，中译版本
 [数据分析可视化](https://cloud.tencent.com/developer/user/6237940)
 
 介绍了一些seaborn包常用的19个画图函数，总记不住函数，画图需要找例子去看。
+
+[A Rejection Sampler](http://aosabook.org/en/500L/a-rejection-sampler.html)
+
+学习一下大神们的代码是如何计算你赢得象棋比赛的概率，天气对飞机的影响等类似的问题
+
+[决策取样器-中文]([https://github.com/HT524/500LineorLess_CN/blob/master/%E5%86%B3%E7%AD%96%E9%87%87%E6%A0%B7%E5%99%A8_A_Rejection_Sampler/%E5%86%B3%E7%AD%96%E9%87%87%E6%A0%B7%E5%99%A8_A_Rejection_Sampler.md](https://github.com/HT524/500LineorLess_CN/blob/master/决策采样器_A_Rejection_Sampler/决策采样器_A_Rejection_Sampler.md))
+
+中文版本
 
 # 心路历程
 
@@ -143,6 +145,10 @@ python高阶用法，中译版本
 
 阅读了500line or less中的[决策取样器]([https://github.com/HT524/500LineorLess_CN/blob/master/%E5%86%B3%E7%AD%96%E9%87%87%E6%A0%B7%E5%99%A8_A_Rejection_Sampler/%E5%86%B3%E7%AD%96%E9%87%87%E6%A0%B7%E5%99%A8_A_Rejection_Sampler.md](https://github.com/HT524/500LineorLess_CN/blob/master/决策采样器_A_Rejection_Sampler/决策采样器_A_Rejection_Sampler.md))代码，但是没怎么看懂，为了练习英文阅读，所以第一遍看的是英文，为了快速搞懂这个，因为工作上用的上，所以看中文把这个搞懂。
 
+## 20200614
+
+终于把自己版本的决策取样器写完了。不容易
+
 # 实践操作
 
 [老外寻找使用过API接口的程序员](https://www.freelancer.com/projects/python/python-script-using-pinnacle-api/)
@@ -150,4 +156,8 @@ python高阶用法，中译版本
 无意发现一个寻找程序员的网站，里面有人接触过这个行业，并且有相关经验
 
 [pinnacle官方API](https://github.com/pinnacleapi)
+
+[git上类似项目](https://github.com/JamesQuintero/Sports-Odds-Algorithms)
+
+工作上可能用的上的代码
 
