@@ -80,6 +80,8 @@ sklearn库的学习
 
 练习pandas的好教材，前言说的痛点基本都遇到过。质量很高，过了第一章。
 
+[日志 好用的包](https://zhuanlan.zhihu.com/p/151051999?utm_source=wechat_session&utm_medium=social&utm_oi=28981550120960&utm_content=sec)
+
 [kaggle入门](https://zhuanlan.zhihu.com/p/25686876)
 
 入门参考一下
@@ -98,9 +100,39 @@ sklearn库的学习
 
 统计知识：时间序列
 
+可视化
+
+[王的机器公众号](https://mp.weixin.qq.com/s/uXFsANZuqI8xqBGDkbIMXw)
+
+[Python一行代码搞定炫酷可视化，你需要了解一下Cufflinks](https://mp.weixin.qq.com/s/9kgadxZvKZQ3eMPyNKgjIw)
+
+## 机器学习
+
+[一篇文章搞定GBDT、Xgboost和LightGBM的面试](https://zhuanlan.zhihu.com/p/148050748?utm_source=wechat_session&utm_medium=social&utm_oi=28981550120960&utm_content=sec)
+
+[王的机器公众号](https://mp.weixin.qq.com/s/uXFsANZuqI8xqBGDkbIMXw)
+
+## 量化
+
+[量化交易实时动态监视系统](https://zhuanlan.zhihu.com/p/136821953?utm_source=wechat_session&utm_medium=social&utm_oi=28981550120960&utm_content=sec)
+
+《**Python量化交易**：用Python+vn.py组合从零搭建属于自己的量化交易系统》
+
+## 正则表达式
+
+[正则表达式](https://zhuanlan.zhihu.com/p/151775461?utm_source=wechat_session&utm_medium=social&utm_oi=28981550120960&utm_content=sec)
+
 # 工具类学习
 
 * jupyterlab：下一代jupyter
+* VScode：spyder写代码很卡顿，智能补全效果不佳，换这个试试
+
+> [VS Code 配置 Python 开发环境](https://juejin.im/post/5d71bef8f265da03b76b42f6)
+>
+> [恼人的错误提醒](https://blog.csdn.net/weixin_43605788/article/details/104282156?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.nonecase&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.nonecase)
+>
+> 
+
 * Navicat：数据库查看
 * MOngdb：数据库
 * MYSQL：数据库
@@ -140,6 +172,18 @@ sklearn库的学习
 python高阶用法，中译版本
 
 Github搜索：Betting-Arbitrage
+
+# 书单
+
+《**Python量化交易**：用Python+vn.py组合从零搭建属于自己的量化交易系统》
+
+**《编写高质量python代码的59个有效方法》**
+
+**《人人都懂设计模式》**
+
+# 资源号
+
+王的机器
 
 # 已完成或者半完成教程
 
