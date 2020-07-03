@@ -225,6 +225,22 @@ Github搜索：Betting-Arbitrage
 
 把设计模式的原则看完了，后续准备研究透彻几个设计模式。
 
+## 20200704
+
+我发现我有点傻，我学pandas是为了更好的处理数据，然后去参加kaggle比赛，有更好的方法不是去kaggle上看pandas的用法么。傻逼了，然后看到一句话Creating, Reading and Writing，跟之前王的机器作者说的话很像，决定记录一下。谷歌关键词：kaggle pandas
+
+https://www.kaggle.com/kashnitsky/topic-1-exploratory-data-analysis-with-pandas
+
+https://www.kaggle.com/python10pm/pandas-75-exercises-with-solutions
+
+https://www.kaggle.com/python10pm/pandas-100-tricks
+
+https://www.kaggle.com/rudymizrahi/break-into-data-science-01-pandas-tutorial
+
+https://www.kaggle.com/residentmario/welcome-to-advanced-pandas
+
+
+
 # 实践操作
 
 [老外寻找使用过API接口的程序员](https://www.freelancer.com/projects/python/python-script-using-pinnacle-api/)
