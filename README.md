@@ -66,6 +66,12 @@ sklearn库的学习
 
 高级函数，链式调用，装饰器
 
+bilibili李宏毅
+
+官网：http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html
+
+
+
 # 学习计划表
 
 [学习测试框架pytest](https://docs.pytest.org/en/stable/)
@@ -131,12 +137,19 @@ sklearn库的学习
 >
 > [恼人的错误提醒](https://blog.csdn.net/weixin_43605788/article/details/104282156?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.nonecase&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.nonecase)
 >
-> 
+> [中文说明](https://geek-docs.com/vscode/vscode-tutorials/vscode-support-docker.html)
+
+* Docker：[入门介绍](https://zhuanlan.zhihu.com/p/54820194)
+
+> https://github.com/kaggle/docker-python
+>
+> > https://medium.com/@kaggleteam/how-to-get-started-with-data-science-in-containers-6ed48cb08266
 
 * Navicat：数据库查看
 * MOngdb：数据库
 * MYSQL：数据库
 * Mathpix：公式识别转换
+* docsify
 
 # 资源梳理
 
